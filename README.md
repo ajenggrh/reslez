@@ -1,1 +1,4 @@
-# reslez
+Restoran Lezat
+Restoran Lezat adalah tempat terbaik untuk menikmati hidangan lezat yang disajikan dengan bahan-bahan berkualitas tinggi dan diolah dengan penuh perhatian. Dengan suasana yang nyaman dan pelayanan ramah, kami berkomitmen untuk memberikan pengalaman kuliner yang istimewa bagi setiap tamu. Kami mengutamakan keaslian rasa dan kualitas bahan dalam setiap hidangan yang kami sajikan. Para koki kami yang berbakat dan berpengalaman menciptakan menu yang kreatif dan inovatif, menjadikan setiap kunjungan ke restoran kami sebagai perjalanan kuliner yang tak terlupakan. Tak hanya makanan, kami juga mengedepankan pengalaman. Interior restoran kami dirancang dengan estetika yang indah, menciptakan suasana yang cocok untuk acara romantis, pertemuan bisnis, atau keluarga berkumpul bersama. Kami senantiasa berusaha menjadikan setiap momen di restoran kami menjadi spesial. Kunjungi kami hari ini dan nikmati perpaduan rasa yang unik, suasana yang hangat, dan pelayanan yang ramah. Kami mengundang Anda untuk menjadi bagian dari keluarga Restoran Lezat dan merasakan sensasi kuliner yang tak tertandingi.
+
+Terimakasih
