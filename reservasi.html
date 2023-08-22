@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Reservasi - Restoran Lezat</title>
+  </head>
+  <body>
+    <header>
+      <h1>Reservasi Restoran Lezat</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Beranda</a></li>
+          <li><a href="menu.html">Menu</a></li>
+          <li><a href="reservasi.html">Reservasi</a></li>
+          <li><a href="kontak.html">Kontak</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="reservation">
+        <h2>Reservasi Meja</h2>
+        <p>Silakan isi formulir di bawah untuk melakukan reservasi meja.</p>
+
+        <form action="#" method="post">
+          <label for="name">Nama Lengkap</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="phone">Nomor Telepon</label>
+          <input type="tel" id="phone" name="phone" required />
+
+          <label for="date">Tanggal Reservasi</label>
+          <input type="date" id="date" name="date" required />
+
+          <label for="time">Waktu Reservasi</label>
+          <input type="time" id="time" name="time" required />
+
+          <label for="guests">Jumlah Tamu</label>
+          <input type="number" id="guests" name="guests" min="1" required />
+
+          <label for="message">Pesan Tambahan</label>
+          <textarea id="message" name="message" rows="4"></textarea>
+
+          <button type="submit">Kirim Reservasi</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>Hak Cipta &copy; 2023 | Ajeng Anugrah</p>
+    </footer>
+  </body>
+</html>
